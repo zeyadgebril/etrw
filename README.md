@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mohamed fayed</h1>
+<h1 align="center">Hi 👋, I'm zeyad</h1>
 <h3 align="center">communication eng std</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadgebril&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadgebril" /> </p>
